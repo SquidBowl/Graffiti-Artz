@@ -6,11 +6,11 @@ Anyways, here's the official open source for the mod. If this goes private that 
 
 ## Credits
 * SquidBowl - Programmer/Eventer
-* CherryMix - Direcotr/Musician
+* CherryMix - Director/Musician
 * ShultzyNG - Artist/Animator
 * Jester - Artist
 * raimbowcore12alt - Charter
 * Novasaur - Girlfriend VA (?)
-* Thenextwaterholic - Playteser
+* Thenextwaterholic - Playtester
 
 You owe me, Jester and Cherry.
