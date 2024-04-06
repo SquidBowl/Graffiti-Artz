@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spraygf .png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="631" y="1432" width="631" height="716" frameX="-35" frameY="-15" frameWidth="680" frameHeight="753"/>
+	<SubTexture name="right0000" x="1893" y="1432" width="631" height="716" frameX="-35" frameY="-15" frameWidth="680" frameHeight="753"/>
+	<SubTexture name="right0001" x="1290" y="0" width="631" height="716" frameX="-35" frameY="-15" frameWidth="680" frameHeight="753"/>
+	<SubTexture name="down0000" x="631" y="716" width="631" height="716" frameX="-35" frameY="-15" frameWidth="680" frameHeight="753"/>
+	<SubTexture name="down0001" x="2552" y="0" width="631" height="716" frameX="-35" frameY="-15" frameWidth="680" frameHeight="753"/>
+	<SubTexture name="up0000" x="1921" y="0" width="631" height="716" frameX="-35" frameY="-15" frameWidth="680" frameHeight="753"/>
+	<SubTexture name="up0001" x="1921" y="716" width="631" height="716" frameX="-35" frameY="-15" frameWidth="680" frameHeight="753"/>
+	<SubTexture name="left0000" x="0" y="0" width="652" height="716" frameX="-14" frameY="-15" frameWidth="680" frameHeight="753"/>
+	<SubTexture name="left0001" x="0" y="1432" width="631" height="716" frameX="-35" frameY="-15" frameWidth="680" frameHeight="753"/>
+	<SubTexture name="UPMISS0000" x="1262" y="716" width="631" height="716" frameX="-35" frameY="-15" frameWidth="680" frameHeight="753"/>
+	<SubTexture name="DOWNMISS0000" x="1262" y="1432" width="631" height="716" frameX="-35" frameY="-15" frameWidth="680" frameHeight="753"/>
+	<SubTexture name="RIGHTMISS0000" x="0" y="716" width="631" height="716" frameX="-35" frameY="-15" frameWidth="680" frameHeight="753"/>
+	<SubTexture name="LEFTMISS0000" x="652" y="0" width="638" height="716" frameX="-28" frameY="-15" frameWidth="680" frameHeight="753"/>
+</TextureAtlas>
